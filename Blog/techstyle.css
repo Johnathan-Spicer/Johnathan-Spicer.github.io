@@ -7,7 +7,7 @@
 
 .secondarypage{
   width: 100%;
-  height: 150vh;
+  height: 200vh;
   background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(img/WALLPAPER1.jpg);
   background-size: cover;
   background-position: center;
@@ -133,3 +133,4 @@ body{
   font-family: Impact, sans-serif;
   letter-spacing: 5px;
 }
+
